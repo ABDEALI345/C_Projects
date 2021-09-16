@@ -1,0 +1,3 @@
+1)shift+rmb
+2)select open powershell window here
+3)type .\(name_of_file.exe)
